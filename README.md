@@ -1,1 +1,1 @@
-Projeto de cards de Pokémon feito na faculdade usando HTML, CSS e JavaScript. Consumi a PokéAPI pra mostrar as infos dos Pokémon (nome, imagem, número etc.) e dá pra trocar de Pokémon clicando nos botões. Ótimo pra treinar requisições com API e manipulação do DOM.
+# Projeto-Pokemon
